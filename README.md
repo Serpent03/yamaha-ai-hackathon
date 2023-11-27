@@ -19,8 +19,10 @@ git clone https://github.com/Serpent03/yamaha-ai-hackathon.git
 Bursar can detect three different types of nuts and bolts, namely:
 - Type A
 ![Type A](./Dataset/Images/4_jpg.rf.a6c30011f4ff3059e140c835d18363ae.jpg)
+
 - Type B
 ![Type B](./Dataset/Images/12_jpg.rf.53ba0b8b3f2936c8e7baefe28363efa0.jpg)
+
 - Type C
 ![Type C](./Dataset/Images/24_jpg.rf.0b03f12eadd738b4ac3c89ba6d968610.jpg)
 
